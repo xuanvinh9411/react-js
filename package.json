@@ -34,7 +34,7 @@
     "google-map-react": "^0.22.3",
     "image-size": "^0.5.1",
     "immutable": "^3.8.2",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "jssha": "^2.2.0",
     "moment": "^2.17.1",
     "node-fetch": "^1.7.3",
