@@ -86,7 +86,7 @@
     "eslint-plugin-jsx-a11y": "4.0.0",
     "eslint-plugin-react": "6.10.3",
     "isomorphic-fetch": "2.2.1",
-    "prismjs": "1.5.1",
+    "prismjs": "1.25.0",
     "raf": "3.3.0",
     "raw-loader": "0.5.1",
     "react": "15.5.4",
